@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(224, 224, 224)
+}
+
+.college_title {
+    color: white;
+    text-decoration: dotted;
+    text-align: center;
+    background-color: rgba(1, 1, 82, 0.925);
+}
+
+.introduction_description{
+    text-align: justify;
+}
